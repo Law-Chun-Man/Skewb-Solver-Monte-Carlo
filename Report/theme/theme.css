@@ -114,6 +114,13 @@ td img {
     cursor: pointer;
 }
 
+@media (max-width: 600px) {
+    #theme-toggle {
+        right: 20px;
+        top: 20px;
+    }
+}
+
 #theme-toggle:hover {
     opacity: 0.8;
 }
