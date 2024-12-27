@@ -93,6 +93,10 @@ th, td {
     vertical-align: middle;
 }
 
+tbody tr:nth-child(odd) {
+  background-color: var(--pre-bg-color); 
+}
+
 td img {
     width: 100%;
     height: auto;
