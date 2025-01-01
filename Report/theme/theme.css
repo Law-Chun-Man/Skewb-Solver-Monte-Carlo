@@ -111,8 +111,8 @@ tbody tr:nth-child(odd) {
 
 #theme-toggle {
     position: fixed;
-    top: 30px;
-    right: 40px;
+    top: 2%;
+    right: 2%;
     width: 30px;
     height: 30px;
     border-radius: 50%;
